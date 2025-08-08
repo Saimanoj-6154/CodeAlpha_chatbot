@@ -1,7 +1,7 @@
 # Basic Chatbot
 
 def chatbot():
-    print("Chatbot: Hello! Type 'bye' to exit.")
+ print("Chatbot: Hello! Welcome to chatbot , please enter : hello ; how are you or Type 'bye' to exit.")
 
     while True:
         user_input = input("You: ").lower()
